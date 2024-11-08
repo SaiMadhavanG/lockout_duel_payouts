@@ -1,0 +1,8 @@
+Player,Side,Wager,Payout_if_Anant_wins,Payout_if_Subhajeet_wins,Total_Payout_if_Anant_wins,Total_Payout_if_Subhajeet_wins
+Sunil,Anant,50,33.33,0.0,83.33,0.0
+Varnit,Subhajeet,20,0.0,30.0,0.0,50.0
+Naitik,Anant,10,6.67,0.0,16.67,0.0
+Nagraj,Anant,20,13.33,0.0,33.33,0.0
+Shlok,Anant,10,6.67,0.0,16.67,0.0
+Sai,Subhajeet,20,0.0,30.0,0.0,50.0
+Danesh,Subhajeet,20,0.0,30.0,0.0,50.0

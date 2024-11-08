@@ -1,0 +1,4 @@
+Player,Side,Wager,Payout_if_Shashank_wins,Payout_if_Dhairya_wins,Total_Payout_if_Shashank_wins,Total_Payout_if_Dhairya_wins
+Danesh,Shashank,10,20.0,0.0,30.0,0.0
+Naitik,Dhairya,10,0.0,5.0,0.0,15.0
+Sai,Dhairya,10,0.0,5.0,0.0,15.0

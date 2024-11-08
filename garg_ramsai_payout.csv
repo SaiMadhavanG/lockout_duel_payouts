@@ -1,0 +1,7 @@
+Player,Side,Wager,Payout_if_Garg_wins,Payout_if_Ramsai_wins,Total_Payout_if_Garg_wins,Total_Payout_if_Ramsai_wins
+Darshak,Garg,50,5.0,0.0,55.0,0.0
+Shashank,Garg,20,2.0,0.0,22.0,0.0
+Sai,Garg,10,1.0,0.0,11.0,0.0
+Subhaeet,Garg,10,1.0,0.0,11.0,0.0
+Naitik,Garg,10,1.0,0.0,11.0,0.0
+Kevin,Ramsai,10,0.0,100.0,0.0,110.0

@@ -1,0 +1,9 @@
+Player,Side,Wager,Payout_if_Kevin_wins,Payout_if_Raj_wins,Total_Payout_if_Kevin_wins,Total_Payout_if_Raj_wins
+Harsh,Kevin,10,15.0,0.0,25.0,0.0
+Anant,Kevin,10,15.0,0.0,25.0,0.0
+Arin,Raj,20,0.0,13.33,0.0,33.33
+Darshak,Raj,20,0.0,13.33,0.0,33.33
+Aditya,Raj,10,0.0,6.67,0.0,16.67
+Danesh,Kevin,10,15.0,0.0,25.0,0.0
+Shlok,Raj,10,0.0,6.67,0.0,16.67
+Dhairya,Kevin,10,15.0,0.0,25.0,0.0
